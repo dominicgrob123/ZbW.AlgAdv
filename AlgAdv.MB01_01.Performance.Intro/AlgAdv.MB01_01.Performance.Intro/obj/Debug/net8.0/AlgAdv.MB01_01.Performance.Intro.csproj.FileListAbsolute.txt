@@ -1,0 +1,15 @@
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\bin\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.exe
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\bin\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.deps.json
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\bin\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.runtimeconfig.json
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\bin\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.dll
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\bin\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.pdb
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.AssemblyInfoInputs.cache
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.AssemblyInfo.cs
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.csproj.CoreCompileInputs.cache
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.sourcelink.json
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.dll
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\refint\AlgAdv.MB01_01.Performance.Intro.dll
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.pdb
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\AlgAdv.MB01_01.Performance.Intro.genruntimeconfig.cache
+C:\Users\domin\Source\Repos\ZbW.AlgAdv\AlgAdv.MB01_01.Performance.Intro\AlgAdv.MB01_01.Performance.Intro\obj\Debug\net8.0\ref\AlgAdv.MB01_01.Performance.Intro.dll

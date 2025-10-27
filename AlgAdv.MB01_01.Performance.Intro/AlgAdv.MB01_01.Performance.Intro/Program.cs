@@ -34,7 +34,8 @@ namespace AlgAdv.MB01_01.Performance.Intro {
 
         private static int CountUniqueIPs() {
             var logReader = new LogReader();
-            var ipsSeen = new List<string>();
+            //var ipsSeen = new List<string>(); // 20 sec
+            var ipsSeen = new HashSet<string>(); // 0.05 sec
 
             foreach (var logLine in logReader) {
                 var ip = logLine.GetIP();
