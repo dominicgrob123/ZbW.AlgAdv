@@ -1,5 +1,8 @@
-﻿namespace FloatingPoint.Tests {
-    [TestClass]
+﻿namespace FloatingPoint.Tests
+
+{
+
+[TestClass]
     public sealed class FloatingPointAdditionTests {
         [TestMethod]
         public void TestPositiveFloats() {
@@ -32,12 +35,13 @@
             TestTwoFloats(nonZeroMantissa1, nonZeroMantissa2);
             TestTwoFloats(nonZeroMantissa2, zero);
         }
-
         private void TestTwoFloats(float firstValue, float secondValue) {
+
+            FloatingPointAddition fpa = new FloatingPointAddition();
             float expectedResult = firstValue + secondValue;
             int val1 = BitConverter.SingleToInt32Bits(firstValue);
             int val2 = BitConverter.SingleToInt32Bits(secondValue);
-            int result = FloatingPointAddition.Addition(val1, val2);
+            int result = (int)fpa.Addition(val1, val2);
 
             float actualResult = BitConverter.Int32BitsToSingle(result);
 

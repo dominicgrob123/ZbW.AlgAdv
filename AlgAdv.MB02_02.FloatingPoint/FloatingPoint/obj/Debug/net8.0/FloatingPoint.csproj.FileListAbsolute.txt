@@ -1,0 +1,12 @@
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.deps.json
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.dll
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.pdb
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfo.cs
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.sourcelink.json
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.dll
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\refint\FloatingPoint.dll
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.pdb
+C:\School\Repos\ZbW.AlgAdv\AlgAdv.MB02_02.FloatingPoint\FloatingPoint\obj\Debug\net8.0\ref\FloatingPoint.dll
